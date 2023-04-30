@@ -1,0 +1,39 @@
+*{
+    font-family: 'Noto Sans TC',sans-serif;
+}
+.wrap{
+    width: 100%;
+    max-width: 1170px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    background-color: #364d3b;
+    border: 1px solid #333;
+    margin-top: 50px;
+}
+.card{
+    width: 375px;
+    display: block;
+    background-color: #fff;
+}
+.card h2{
+    font-size: 81px;
+    color: #37532d;
+    margin-top: 100px;
+    font-weight: 400;
+    text-align: center;
+}
+.card h3{
+    font-size: 28px;
+    color: #37532d;
+    margin-top: 130px;
+    margin-bottom: 36px;
+    margin-left: 36px;
+}
+.card p{
+    font-size: 22px;
+    line-height: 1.2;
+    margin-right: 36px;
+    margin-left: 36px;
+}
